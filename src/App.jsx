@@ -15,7 +15,7 @@ import {
   getCoordinates,
   getCurrentWeather,
   getForecast,
-} from "./services/WeatherService";
+} from "./services/weatherService";
 
 const STORAGE_KEY = "weatherSearchHistory";
 const LAST_SEARCH_KEY = "lastWeatherCity";
