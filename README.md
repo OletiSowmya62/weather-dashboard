@@ -4,7 +4,7 @@ A polished, responsive weather application built with React and the OpenWeather 
 
 ## 🔗 Quick Links
 
-- **Live Demo:** https://weather-dashboard-m2anrab6x-oletisowmya62.vercel.app/
+- **Live Demo:** https://weather-dashboard-m2anrab6x-oletisowmya62.vercel.app
 - **GitHub Repository:** https://github.com/OletiSowmya62/weather-dashboard
 
 ## ✨ Key Features
